@@ -1,8 +1,21 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+https://tranquil-alfajores-baba3a.netlify.app/
 
-Currently, two official plugins are available:
+<img width="1653" alt="BOOKPEDIA" src="https://github.com/user-attachments/assets/16ec68a0-afdb-429d-a5ba-30efc3ffde4a" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+BOOKPEDIA:
+
+ONLINE BOOKSTORE, WHERE YOU CAN LOOK FOR YOUR FAVOURITE BOOKS AND BUY THEM ONLINE.
+
+TECH USED:
+- REACT
+- NODE
+- STRIPE
+- EXPRESS
+- JWT
+- ZUSTAND
+- MONGODB
+- TAILWIND CSS
+- HTML
+- CSS
